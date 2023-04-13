@@ -64,7 +64,7 @@
                     <div class="flex flex-wrap -mx-3 mb-6">
                         <div class="w-full px-3">
                             <button type="submit"
-                                class="px-4 py-2 shadow-lg text-white rounded bg-green-500 hover:bg-green-700 transition duration-300 rounded font-bold">Update
+                                class="px-4 py-2 shadow-lg text-white rounded-lg bg-green-500 hover:bg-green-700 transition duration-300 font-bold">Update
                                 User</button>
                         </div>
                     </div>
